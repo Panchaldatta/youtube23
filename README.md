@@ -1,1 +1,1 @@
-Lama Dev Season 3
+Skill hive plactform provide freelancers to provide there servises to the clients. Freelancers can create their profile and showcase their skills and services. 
